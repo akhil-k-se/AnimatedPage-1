@@ -7,7 +7,6 @@ An interactive, beautifully animated website built using **React**, **GSAP**, **
 
 ## 📌 **Features**
 - **Smooth Animations:** Powered by **GSAP** for seamless transitions.
-- **Responsive Design:** Built with **TailwindCSS** to adapt perfectly to any device.
 - **Modern Icons:** Enhanced with **React Icons** for a polished look.
 - **Interactive UI:** Engaging and interactive elements throughout.
 
