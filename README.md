@@ -1,12 +1,31 @@
-# React + Vite
+# 🚀 **Animated Website**  
+Deployed at 👉 [animatedpage-1.netlify.app](https://animatedpage-1.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, beautifully animated website built using **React**, **GSAP**, **React Icons**, and **TailwindCSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 **Features**
+- **Smooth Animations:** Powered by **GSAP** for seamless transitions.
+- **Responsive Design:** Built with **TailwindCSS** to adapt perfectly to any device.
+- **Modern Icons:** Enhanced with **React Icons** for a polished look.
+- **Interactive UI:** Engaging and interactive elements throughout.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ **Technologies Used**
+- **React.js** — Component-based UI library.
+- **GSAP (GreenSock Animation Platform)** — High-performance animations.
+- **TailwindCSS** — Utility-first CSS framework.
+- **React Icons** — Collection of popular icons.
+- **Netlify** — Deployment and hosting.
+
+---
+
+## 🚀 **Getting Started**
+To get a local copy up and running, follow these steps:
+
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/your-username/animated-website.git
+cd animated-website
