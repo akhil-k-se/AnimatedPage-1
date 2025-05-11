@@ -76,7 +76,7 @@ const App = () => {
   console.log(loadingComplete);
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-black relative overflow-hidden relative">
+    <div className="flex flex-col items-center justify-center h-screen bg-black relative overflow-hidden">
     <nav className="navbar absolute -top-[100vw] left-0 flex items-center justify-between z-100 w-full h-[10%] gap-[50%]">
       <div className="flex items-center justify-around text-white w-full">
         <h1>First</h1>
